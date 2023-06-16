@@ -21,11 +21,11 @@ var say = 'Hello N G codex'; //initialisation par defaut
 var voice = 'UK English Female';
 switch (lang) { //pour chaque cas de langue; pour notre cas on a choisi fr et en// mais par defaut c est en
     case 'en':
-        say = "Hello N G codex";
+        say = "Hello and welcome to the N G CODEX Hackathon 2023 club organized by unesco. I introduce myself N G I A; I am an artificial intelligence, developer by a team of students from I C T and Saint Jean universities. This project will allow visually impaired personnel in Cameroon to follow an exemplary education. For more information, join the team or contact the number 6 92 0 7 70 0 5. I repeat 6 92 07 70 05";
         voice = "UK English Female";
         break;
     case 'fr':
-        say = "Bonjour N G codex";
+        say = "Bonjour et bienvenue au club N G CODEX Hackathon 2023 organisé par l'unesco. Je me présente N G I A; Je suis une intelligence artificielle, développer par une équipe d'étudiants des universités I C T universities et Saint Jean. Ce projet permettra au personnel déficient visuel du Cameroun de suivre une éducation exemplaire. Pour plus d'information, rejoindre la team ou contacter le numero 6 92 07 70 05. je recommence. le 6 92 07 70 05.";
         voice = "French Female";
         break;
     default:
