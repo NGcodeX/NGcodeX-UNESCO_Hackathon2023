@@ -1,11 +1,11 @@
-/* Contributor : @Codeur ZEBS, none,       
+/* Contributor code: @Codeur ZEBS, none,       
  * Repos NGcodeX script IA integration
  * script
  * @server      pla****r
  * @univ 	    ICT, saint jean
  * @copyright       Copyright (c) 2023 UNESCO
  * @license         
- * @github          https://github.com/NGUENAZEBS
+ * @github          https://github.com/NGcodeX
  * @version         1.0.1 ICT-U, Saint Jean
  * Help us to keep this project
  *club      NGcodeX
