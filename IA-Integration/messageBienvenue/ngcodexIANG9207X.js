@@ -42,7 +42,7 @@ setTimeout(responsiveVoice.speak(say, voice),15000);
  * @univ 	    ICT, saint jean
  * @copyright       Copyright (c) 2023 UNESCO
  * @license         
- * @github          https://github.com/NGUENAZEBS
+ * @github     
  * @version         1.0.1 ICT-U, Saint Jean
  * Help us to keep this project
  *club      NGcodeX
