@@ -1,4 +1,5 @@
-/* Contributor code: @Codeur ZEBS, none,       
+/* UNESCO ICTU Club
+*Contributor code: @Codeur ZEBS, none,       
  * Repos NGcodeX script IA integration
  * script javascript
  * @server      pla****r
@@ -6,7 +7,7 @@
  * @copyright       Copyright (c) 2023 UNESCO
  * @license         
  * @github          https://github.com/NGcodeX
- * @version         1.0.1 ICT-U, Saint Jean
+ * @version         1.0.1 ICT-U
  * Help us to keep this project
  *club      NGcodeX
  */
