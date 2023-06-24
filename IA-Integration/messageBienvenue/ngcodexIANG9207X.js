@@ -31,7 +31,7 @@ switch (lang) {
         voice = "French Female";
         break;
     default:
-        say = "Hello";
+        say = "Hello To plateforme";
         voice = "UK English Female";
         break;
 }
